@@ -1,0 +1,41 @@
+This is what we believe the output of the program would look like
+
+file name: file1.c  	 size: 3
+
+file name: file2.c  	 size: 8
+
+file name: file3.c  	 size: 4
+
+file name: a.out    	 size: 5
+
+file name: lab1.jav 	 size: 6
+
+
+file name: file1.c  	 size: 3
+
+file name: file2.c  	 size: 8
+
+file name: file4.c  	 size: 7
+
+file name: a.out    	 size: 5
+
+file name: lab1.jav 	 size: 6
+
+
+file name: file1.c  	 size: 3
+
+file name: file2.c  	 size: 8
+
+file name: file4.c  	 size: 7
+
+file name: a.out    	 size: 5
+
+
+file name: file1.c  	 size: 3
+
+file name: file2.c  	 size: 8
+
+file name: file4.c  	 size: 7
+
+file name: a.out    	 size: 5
+
